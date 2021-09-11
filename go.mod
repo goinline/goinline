@@ -1,3 +1,3 @@
-module git.codemonky.net/goinline/goinline
+module github.com/goinline/goinline
 
 go 1.12
