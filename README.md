@@ -8,8 +8,8 @@
 ## list
    双向链表
    
-## pool
-  无锁消息池
+## string
+  字符串处理
   
 ## ascii
   字符串处理
